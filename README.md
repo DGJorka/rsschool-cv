@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/DGJorka/rsschool-cv/tree/gh-pages/cv
